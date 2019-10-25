@@ -4,7 +4,7 @@
 // File Name    : visualizer.pde
 // Authors      : Liam Lawrence
 // Created      : August 26, 2019
-// Project      : Vector field simulation
+// Project      : Vector field simulator
 // License      : GPLv2
 // Copyright    : (C) 2019, Liam Lawrence
 //
