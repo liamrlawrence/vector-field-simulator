@@ -1,6 +1,6 @@
 //------------------------------------------------------------------------------
 // Description  : Simulates every lattice point on a grid moving through a 
-//                  vector field using an equation with two variables
+//                  vector field using a two variable equation f(x, y)
 //
 // File Name    : simulation.c
 // Authors      : Liam Lawrence
